@@ -10,6 +10,9 @@ Reviews page and content accessibility, including alt text, heading hierarchy, l
 ### [Campaign Agent](./Campaign-agent.md)
 Creates campaign content directly in Sitefinity from a user brief. It can generate content such as news items and blog posts, inspect the target content type through Sitefinity tools, satisfy required fields, format rich text correctly, and create the resulting items in the CMS.
 
+### [Content Freshness Agent](./content-freshness-agent.md)
+Reviews content for time-sensitive claims that may no longer be current or actionable, such as expired dates, stale statistics, superseded policies, temporary arrangements, or outdated organizational information. It distinguishes supported issues from claims that merely need verification and only proposes corrections when evidence supports them.
+
 ### [Content Reuse Agent](./Content-reuse-agent.md)
 Uses hybrid search to identify duplicated and near-duplicated content across a content estate. It groups similar content into meaningful clusters, compares the actual messaging, highlights meaningful differences, and surfaces opportunities for reusable or centralized business content.
 
